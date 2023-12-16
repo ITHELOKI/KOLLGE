@@ -1,25 +1,25 @@
 {
-        "2BAC": [
-          {
-            Math: [
-              {
-                COURSE1: [
-                  {
-                    darss: [
-                      {
-                        YT1: [
-                          {
-                            name: "1.json",
+  "2BAC": [
+    {
+      "Math": [
+        {
+          "COURSE1": [
+            {
+              "darss": [
+                {
+                  "YT1": [
+                    {
+                      name: "1.json",
                             type: "JSON",
                             url: "https://raw.githubusercontent.com/ITHELOKI/KOLLGE/main/2bac/SVT/Math/1/0/1.json",
-                          }
-                        ],
-                      }
-                    ],
-                  }
-                ],
-              },
-            ],
-          },
-        ],
-      }
+        }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
