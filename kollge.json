@@ -4,29 +4,15 @@
           "PC": [
             {
               "Math": [
-                {
-                  "1": [
-                  {
-                      "0": [
-                        {
-                          "name": "1.json",
-                          "type": "JSON",
-                          "url": "https://raw.githubusercontent.com/ITHELOKI/KOLLGE/main/2bac/SVT/Math/1/0/1.json"
-                        }
-                      ]
-                    },
+             
                     {
                       "1": [
                         {
-                          "name": "alnhaiat-oalatsal-aldrs-1.pdf",
-                          "type": "PDF",
-                          "url": "https://raw.githubusercontent.com/ITHELOKI/KOLLGE/main/2bac/PC/Math/1/1/alnhaiat-oalatsal-aldrs-1.pdf"
-                        },
-                        {
-                          "name": "alnhaiat-oalatsal-aldrs-2-7.pdf",
-                          "type": "PDF",
-                          "url": "https://raw.githubusercontent.com/ITHELOKI/KOLLGE/main/2bac/PC/Math/1/1/alnhaiat-oalatsal-aldrs-2-7.pdf"
-                        }
+ "name": "1.json",
+                          "type": "JSON",
+                          "url": "https://raw.githubusercontent.com/ITHELOKI/KOLLGE/main/2bac/SVT/Math/1/0/1.json"
+             }
+                        
                       ]
                     },
                     {
